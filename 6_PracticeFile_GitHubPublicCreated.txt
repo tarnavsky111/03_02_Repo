@@ -1,1 +1,2 @@
 I am editing this also in GitHub and need to make is slightly different than before
+I am adding information now that is after the initial pull to my local repo
